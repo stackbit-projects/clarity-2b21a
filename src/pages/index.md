@@ -10,7 +10,7 @@ sections:
       Clarity helps you think more clearly about your technical problems, and
       enables you to receive feedback from others. 
     actions:
-      - label: Down
+      - label: 'Free '
         url: /features
         style: primary
   - section_id: features
