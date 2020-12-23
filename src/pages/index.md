@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: ''
+    subtitle: 'At it''s core, '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
