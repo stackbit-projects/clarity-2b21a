@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: 'At it''s core, Clarity is '
+    subtitle: 'At it''s core, Clarity is a tool to create flow charts'
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
