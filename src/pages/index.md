@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Crush that technical problem by thinking visually
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Clarity helps you think more clearly about your technical problems, and
+      enables you to receive feedback from others. 
     actions:
       - label: Learn More
         url: /features
